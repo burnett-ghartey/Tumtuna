@@ -1,0 +1,38 @@
+.container-fluid{
+    min-height: 0;
+    margin-bottom: 50px;
+}
+
+.box-wrapper{
+    height: auto;
+    margin-top: 200px;
+}
+.contact-wrapper{
+    text-align: center;
+}
+
+.contact-form{
+ 
+    padding: 10px 30px;
+}
+.form-wrapper{
+    margin-top: 60px;
+}
+.inf-title{
+    color: #dfb065;
+}
+.fnd-s{
+    list-style: none;
+}
+
+.cmpy-deta{
+    margin-left: 35px;
+    margin-top: 15px;
+}
+.fnd-ic{
+    margin-bottom: 10px;
+}
+.ml-link{
+    color: rgb(60, 66, 69);
+    text-decoration: none;
+}

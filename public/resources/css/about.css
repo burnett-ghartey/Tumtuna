@@ -1,0 +1,93 @@
+
+.about-wrapper{
+    margin-top: 110px;
+    min-height: 450px;
+    
+}
+
+.ab-drop-lem{
+    height: 400px;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/black-tool.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.about-name{
+    font-size: 250%;
+    font-weight: bold;
+    color: #fff;
+    position:relative;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    letter-spacing: 4px;
+}
+.about-width{
+    width: 70%;
+}
+
+.wc-head{
+    font-weight: 700;
+}
+
+.ab-title > h1{
+    font-size: 200%;
+    font-weight: bold;
+    color: #fff;
+    position:relative;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    letter-spacing: 4px;
+ 
+   
+}
+
+
+.main-block{
+    position:relative;
+    min-height: 840px;
+    box-shadow: rgba(7, 51, 84, 0.17) 0px 0px 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 50px;
+    
+}
+.top-sc-pag{
+    text-align: center;
+}
+.display-pt{
+    height: 400px;
+    background: url('../img/person-holding-dewalt-cordless-hand-drill-1249610.jpg');
+    background-size: cover;
+    background-position: center;
+    margin-top: 40px;
+
+}
+
+.over-top-img{
+    height: 100%;
+    width: 100%;
+    background: red;
+   
+}
+.flashy-underline{
+    position:relative;
+}
+.flashy-underline:after{
+    position:absolute;
+    content: '';
+    height: 4px;
+    bottom: -4px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    width: 40%;
+      background: #dfb065;
+}
+
+.keynotes{
+    background: #fff;
+    padding: 30px;
+    text-align: center;
+}
